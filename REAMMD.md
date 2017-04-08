@@ -1,0 +1,4 @@
+- git status
+- git add --all
+- git commit -m "reids mail"
+- git push origin master
